@@ -1,6 +1,7 @@
 # Unreleased
 
-- [fixed] Fixed a crash when calling `keepSynced(true)` and `get()` on the same query.
+- [fixed] Fixed a crash when calling `keepSynced(true)` and `get()` on the
+  same query. (#8433)
 
 # 22.0.1
 
